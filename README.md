@@ -1,11 +1,11 @@
 # ECON407, 2020 Fall
-Course material for ECON407 for 2020 fall semester
+Course material for ECON407 for 2020 fall
 
 ## Syllabus
 Check [Syllabus](syllabus.md) for more details
 
 ## Lectures
-1. **September 8th**
+1. **September 8th**: Imagine Day at UBC. Class cancelled.
 2. **September 10th**
 3. **September 15th**
 4. **September 17th**
