@@ -1,5 +1,5 @@
 # ECON407, 2020 Fall
-Course material for ECON407 for 2020 fall
+Course material for ECON407 in 2020 fall
 
 ## Syllabus
 Check [Syllabus](syllabus.md) for more details
