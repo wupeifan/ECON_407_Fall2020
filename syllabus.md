@@ -1,7 +1,7 @@
 # ECON407 -- Fall 2020
 
 ## Topics in Macroeconomics
-The class will be a mixture of theory and programming. The first half or 2/3 of this course is about learning the computational tools used in modern macroeconomics, and applying the programming tools. Then, based on the
+The class will be a mixture of theory and programming. The first half or 2/3 of this course is about learning the computational tools used in modern macroeconomics, and applying the programming tools. Then, based on the previous knowledge we discuss some macroeconomic modeling and research.
 
 - **Instructor:** Peifan Wu, peifan.wu@ubc.ca
   - Postdoc @ VSE, 19' Ph.D. @ NYU Stern (Econ), 13' BSc @ Tsinghua (Econ/Finance/Math), learned some programming in high school (China NOI, ACM/ICPC, etc)
