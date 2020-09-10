@@ -1,11 +1,11 @@
 # ECON407 -- Fall 2020
 
 ## Topics in Macroeconomics
-This is a course in the computational tools used in modern macroeconomic.  The class will be a mixture of theory and programming.
+The class will be a mixture of theory and programming. The first half or 2/3 of this course is about learning the computational tools used in modern macroeconomics, and applying the programming tools. Then, based on the
 
 - **Instructor:** Peifan Wu, peifan.wu@ubc.ca
-- **Office Hours:** Tuesdays 9:00am-10:00am Vancouver Time (PST)
-- **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.
+- **Office Hours:** Tuesdays 9:00am-10:00am, Vancouver Time
+- **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306. Not very strict though.
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
   - We'll go through some introductory contents in the class
 - **Textbook:** No Textbook. We will follow a small subset of QuantEcon Python lectures https://python.quantecon.org/index_toc.html
@@ -33,7 +33,7 @@ While I will show programs in Python and we will use several QuantEcon Python le
 (subject to change: we might not able to cover everything)
 
 
-## UBC Statement
+## UBC Statement on Academic Freedom
 During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC,
 including changes to health and safety considerations. Keep in mind that some UBC courses might cover
 topics that are censored or considered illegal by non-Canadian governments. This may include, but is not
@@ -47,3 +47,16 @@ Thus, we recognize that students will have legitimate reason to exercise caution
 subjects. If you have concerns regarding your personal situation, consider postponing taking a course
 with manifest risks, until you are back on campus or reach out to your academic advisor to find substitute
 courses. For further information and support, please visit: http://academic.ubc.ca/supportresources/freedom-expression
+
+## UBC Academic Integrity
+The academic enterprise is founded on honesty, civility, and integrity. As members of this
+enterprise, all students are expected to know, understand, and follow the codes of conduct
+regarding academic integrity. At the most basic level, this means submitting only original
+work done by you and acknowledging all sources of information or ideas and attributing
+them to others as required. This also means you should not cheat, copy, or mislead others
+about what is your work. Violations of academic integrity (i.e., misconduct) lead to the
+breakdown of the academic enterprise, and therefore serious consequences arise and harsh
+sanctions are imposed. For example, incidences of plagiarism or cheating may result in a
+mark of zero on the assignment or exam and more serious consequences may apply if the
+matter is referred to the President’s Advisory Committee on Student Discipline. Careful
+records are kept in order to monitor and prevent recurrences.

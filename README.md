@@ -1,5 +1,5 @@
 # ECON407, 2020 Fall
-Course material for ECON407 in 2020 fall
+Course material and schedules for ECON407 in 2020 fall
 
 ## Syllabus
 Check [Syllabus](syllabus.md) for more details
@@ -35,3 +35,10 @@ Check [Syllabus](syllabus.md) for more details
 ## Assignments
 
 1. TBD
+
+<!---
+## Potential Topics
+
+- Briefly on Monetary policy? Gali
+- Firm Dynamics and Asset pricing?
+--->
