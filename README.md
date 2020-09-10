@@ -5,11 +5,13 @@ Course material and schedules for ECON407 in 2020 fall
 Check [Syllabus](syllabus.md) for more details
 
 ## Jupyter Hubs
-For those who program in Python, you can either use Google Colab or [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca)
+For those who program in Python and want to launch Jupyter notebook on the cloud, you can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Colab
 
 ## Lectures
 1. **September 8th**: Imagine Day at UBC. Class cancelled.
 2. **September 10th**: Logistics, [Syllabus](syllabus.md), [Math Review](Notes/Math_Review.pdf)
+
+<!---
 3. **September 15th**
 4. **September 17th**
 5. **September 22nd**
@@ -34,14 +36,8 @@ For those who program in Python, you can either use Google Colab or [UBC Syzygy 
 24. **November 26th**
 25. **December 1st**
 26. **December 3rd**
+--->
 
 ## Assignments
 
 1. TBD
-
-<!---
-## Potential Topics
-
-- Briefly on Monetary policy? Gali
-- Firm Dynamics and Asset pricing?
---->

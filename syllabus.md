@@ -26,7 +26,7 @@ This will be based on projects and problems sets, *with no exams*.
   - I'll decide that soon as the semester goes.
 
 ## Programming Language Choice
-While I will show programs in Python and we will use several QuantEcon Python lectures, you don't have to stick to Python, as you can use Julia, Matlab, or other languages. Stata doesn't count -- it won't be sufficient for our class.
+While I will show programs in Python and we will use several QuantEcon Python lectures and I *strongly* recommend Python for this course, you don't have to stick to Python, as you can use Julia, Matlab, or other languages. Stata doesn't count -- it won't be sufficient for our class.
 
 **Write me an email** if you are not going to use Python/Julia/Matlab, and specify what you will use.
 
@@ -44,7 +44,7 @@ The principle is to show your source code that I can replicate your results, or 
   - Basic Optimization
   - Probability
 - Programming Introduction
-  - Using Python, Jupyter Hubs, Github
+  - Using Python, Jupyter Hubs, (Github)
 - Tools and Techniques
   - Linear Algebra
   - Finite Markov Chains
