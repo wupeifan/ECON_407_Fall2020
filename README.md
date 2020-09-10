@@ -4,6 +4,9 @@ Course material and schedules for ECON407 in 2020 fall
 ## Syllabus
 Check [Syllabus](syllabus.md) for more details
 
+## Jupyter Hubs
+For those who program in Python, you can either use Google Colab or [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca)
+
 ## Lectures
 1. **September 8th**: Imagine Day at UBC. Class cancelled.
 2. **September 10th**: Logistics, [Syllabus](syllabus.md), [Math Review](Notes/Math_Review.pdf)

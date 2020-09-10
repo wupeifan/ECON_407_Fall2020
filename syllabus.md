@@ -9,11 +9,11 @@ The class will be a mixture of theory and programming. The first half or 2/3 of 
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306. Not very strict though.
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
   - We'll go through some introductory contents in the class
-- **Textbook:** No Textbook. We will follow a small subset of QuantEcon Python lectures https://python.quantecon.org/index_toc.html
-- **Learning Environment:** Regular (virtual) attendance is expected.
+- **Textbook:** No Textbook. We will follow a small subset of QuantEcon Python lectures https://python.quantecon.org/index_toc.html, and I'll post notes under this repository
+- **Learning Environment:** Regular (virtual) attendance and (virtual) interaction are expected. The lecture sessions will be recorded.
 
 ## Course Materials and Communications
-- Course Materials will be online
+- Course Materials will be online, mostly under this Github repository
 - Course stream through Canvas
 - Slides, Notes, Communications, Announcements, and Grades: all through Canvas
 
@@ -28,11 +28,42 @@ This will be based on projects and problems sets, *with no exams*.
 ## Programming Language Choice
 While I will show programs in Python and we will use several QuantEcon Python lectures, you don't have to stick to Python, as you can use Julia, Matlab, or other languages. Stata doesn't count -- it won't be sufficient for our class.
 
-**Write me an email** if you are not going to use Python/Julia/Matlab.
+**Write me an email** if you are not going to use Python/Julia/Matlab, and specify what you will use.
+
+In submitting your computational problem sets:
+- *Python*: Jupyter notebook (.ipynb) is ideal
+- *Julia*: Jupyter notebook
+- *Matlab*: Source code (.m) with your results (figures, variables, etc)
+
+The principle is to show your source code that I can replicate your results, or at least I can read your code.
 
 ## Course Outline
 (subject to change: we might not able to cover everything)
+- Math Review
+  - Matrices and Basic Linear Algebra
+  - Basic Optimization
+  - Probability
+- Programming Introduction
+  - Using Python, Jupyter Hubs, Github
+- Tools and Techniques
+  - Finite Markov Chains
+  - Linear State Space Models
+  - Discrete State Dynamic Programming
+- Single Agent Models
+  - Job Search I: The McCall Search Model
+  - (Job Search II: Search and Separation)
+  - Optimal Growth I: The Stochastic Optimal Growth Model
 
+(Up to here we learned some tools... It might already take long!)
+- The Idea of General Equilibrium
+  - Endogenous interest rate and prices
+  - The Real Business Cycle Model
+- Topics
+  - Firm Dynamics: Hayashi and others
+  - Macro-Finance (Asset Pricing Part): Lucas model, CCAPM
+  - Fiscal Policy: Tax distortion
+  - Monetary Policy (maybe not, too hard)
+- Incomplete Markets and Heterogeneous Agents (Very brief)
 
 ## UBC Statement on Academic Freedom
 During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC,
