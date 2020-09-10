@@ -4,6 +4,7 @@
 The class will be a mixture of theory and programming. The first half or 2/3 of this course is about learning the computational tools used in modern macroeconomics, and applying the programming tools. Then, based on the
 
 - **Instructor:** Peifan Wu, peifan.wu@ubc.ca
+  - Postdoc @ VSE, 19' Ph.D. @ NYU Stern (Econ), 13' BSc @ Tsinghua (Econ/Finance/Math), learned some programming in high school (China NOI, ACM/ICPC, etc)
 - **Office Hours:** Tuesdays 9:00am-10:00am, Vancouver Time
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306. Not very strict though.
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
