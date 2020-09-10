@@ -6,7 +6,7 @@ Check [Syllabus](syllabus.md) for more details
 
 ## Lectures
 1. **September 8th**: Imagine Day at UBC. Class cancelled.
-2. **September 10th**
+2. **September 10th**: Logistics, [Syllabus](syllabus.md), [Math Review](Notes/Math_Review.pdf)
 3. **September 15th**
 4. **September 17th**
 5. **September 22nd**
@@ -31,3 +31,7 @@ Check [Syllabus](syllabus.md) for more details
 24. **November 26th**
 25. **December 1st**
 26. **December 3rd**
+
+## Assignments
+
+1. TBD
