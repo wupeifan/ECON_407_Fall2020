@@ -19,8 +19,8 @@ The class will be a mixture of theory and programming. The first half or 2/3 of 
 
 ## Grading
 This will be based on projects and problems sets, *with no exams*.
-- 5-6 Problem Sets throughout the semester (computational, or math): 65%
-- Final Project: 35%, I haven't made the final decision yet, but will be one of the following two,
+- **5-6 Problem Sets** throughout the semester (computational, or math): 65%
+- **Final Project**: 35%, I haven't made the final decision yet, but will be one of the following two,
   - Option 1: a computation project. You'll have a great deal of freedom to implement a small final project using what we learn.
   - Option 2: review of a paper (more like "referee report"). You can choose a paper from a list I provide, and show your own understanding of the paper and your comments.
   - I'll decide that soon as the semester goes.
