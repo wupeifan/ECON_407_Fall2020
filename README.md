@@ -10,9 +10,9 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 ## Lectures
 1. **September 8th**: Imagine Day at UBC. Class cancelled.
 2. **September 10th**: Logistics, [Syllabus](syllabus.md), [Math Review](Notes/Math_Review.pdf)
+3. **September 15th**: Finish Probability part of [Math Review][Notes/Math_Review.pdf]
 
 <!---
-3. **September 15th**
 4. **September 17th**
 5. **September 22nd**
 6. **September 24th**
