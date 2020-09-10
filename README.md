@@ -1,4 +1,4 @@
-# ECON407, 2020 Fall
+# ECON407, Fall 2020
 Course material and schedules for ECON407 in 2020 fall
 
 ## Syllabus
