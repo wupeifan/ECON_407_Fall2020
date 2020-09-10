@@ -46,6 +46,7 @@ The principle is to show your source code that I can replicate your results, or 
 - Programming Introduction
   - Using Python, Jupyter Hubs, Github
 - Tools and Techniques
+  - Linear Algebra
   - Finite Markov Chains
   - Linear State Space Models
   - Discrete State Dynamic Programming
@@ -56,7 +57,7 @@ The principle is to show your source code that I can replicate your results, or 
 
 (Up to here we learned some tools... It might already take long!)
 - The Idea of General Equilibrium
-  - Endogenous interest rate and prices
+  - Endogenous interest rate and wage
   - The Real Business Cycle Model
 - Topics
   - Firm Dynamics: Hayashi and others
