@@ -17,9 +17,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - [Jupyter Notebook Basics](https://python-programming.quantecon.org/getting_started.html#Notebook-Basics): Code block / Markdown block, running codes, function help, etc
         - Try running codes as in [An Introductory Example](https://python-programming.quantecon.org/python_by_example.html). Make yourself familiar with Jupyter notebook
     - [Python Basics](Notebooks/Basics.ipynb)
-        - Go over [Writing Good Code](https://python-programming.quantecon.org/writing_good_code.html) by yourselves
+        - In addition, go over [Writing Good Code](https://python-programming.quantecon.org/writing_good_code.html) by yourselves
 
-4. **September 17th**: TBD
+4. **September 17th**:
+    - [Numpy](https://python-programming.quantecon.org/numpy.html): vector/matrix operations
+    - TBD
 
 <!---
 5. **September 22nd**
