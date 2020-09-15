@@ -21,6 +21,8 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 4. **September 17th**:
     - [Numpy](https://python-programming.quantecon.org/numpy.html): vector/matrix operations
+    - Control Flow
+    - Functions
     - TBD
 
 <!---
