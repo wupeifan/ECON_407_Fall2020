@@ -10,10 +10,18 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 ## Lectures
 1. **September 8th**: Imagine Day at UBC. Class cancelled.
 2. **September 10th**: Logistics, [Syllabus](syllabus.md), [Math Review](Notes/Math_Review.pdf)
-3. **September 15th**: Finish Probability part of [Math Review][Notes/Math_Review.pdf]
+3. **September 15th**:
+    - Finish [Math Review](Notes/Math_Review.pdf): Leftover proof; Example of constrained optimization; Probability part
+    - Introduction to Python
+        - [Setting up Environment](https://python-programming.quantecon.org/getting_started.html): Local installation, or [UBC Jupyter Hub](http://ubc.syzygy.ca)
+        - [Jupyter Notebook Basics](https://python-programming.quantecon.org/getting_started.html#Notebook-Basics): Code block / Markdown block, running codes, function help, etc
+        - Try running codes as in [An Introductory Example](https://python-programming.quantecon.org/python_by_example.html). Make yourself familiar with Jupyter notebook
+    - [Python Basics](Notebooks/Basics.ipynb)
+        - Go over [Writing Good Code](https://python-programming.quantecon.org/writing_good_code.html) by yourselves
+
+4. **September 17th**: TBD
 
 <!---
-4. **September 17th**
 5. **September 22nd**
 6. **September 24th**
 7. **September 29th**

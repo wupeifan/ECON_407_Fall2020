@@ -5,11 +5,11 @@ The class will be a mixture of theory and programming. The first half or 2/3 of 
 
 - **Instructor:** Peifan Wu, peifan.wu@ubc.ca
   - Postdoc @ VSE, 19' Ph.D. @ NYU Stern (Econ), 13' BSc @ Tsinghua (Econ/Finance/Math), learned some programming in high school (China NOI, ACM/ICPC, etc)
-- **Office Hours:** Tuesdays 9:00am-10:00am, Vancouver Time
+- **Office Hours:** Tuesdays 9:00am-10:00am, Vancouver Time (Pacific Daylight Time)
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306. Not very strict though.
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
   - We'll go through some introductory contents in the class
-- **Textbook:** No Textbook. We will follow a small subset of QuantEcon Python lectures https://python.quantecon.org/index_toc.html, and I'll post notes under this repository
+- **Textbook:** No Textbook. We will follow a small subset of [QuantEcon Python lectures](https://python.quantecon.org/index_toc.html), and I'll post notes under this repository
 - **Learning Environment:** Regular (virtual) attendance and (virtual) interaction are expected. The lecture sessions will be recorded.
 
 ## Course Materials and Communications
