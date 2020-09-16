@@ -19,6 +19,7 @@ The class will be a mixture of theory and programming. The first half or 2/3 of 
 
 ## Grading
 This will be based on projects and problems sets, *with no exams*.
+
 - **5-6 Problem Sets** throughout the semester (computational, or math): 65%
 - **Final Project**: 35%, I haven't made the final decision yet, but will be one of the following two,
   - Option 1: a computation project. You'll have a great deal of freedom to implement a small final project using what we learn.
@@ -31,6 +32,7 @@ While I will show programs in Python and we will use several QuantEcon Python le
 **Write me an email** if you are not going to use Python/Julia/Matlab, and specify what you will use.
 
 In submitting your computational problem sets:
+
 - *Python*: Jupyter notebook (.ipynb) is ideal
 - *Julia*: Jupyter notebook
 - *Matlab*: Source code (.m) with your results (figures, variables, etc)
@@ -39,6 +41,7 @@ The principle is to show your source code that I can replicate your results, or 
 
 ## Course Outline
 (subject to change: we might not able to cover everything)
+
 - Math Review
   - Matrices and Basic Linear Algebra
   - Basic Optimization
