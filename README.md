@@ -20,10 +20,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - In addition, go over [Writing Good Code](https://python-programming.quantecon.org/writing_good_code.html) by yourselves
 
 4. **September 17th**:
-    - [Numpy](https://python-programming.quantecon.org/numpy.html): vector/matrix operations
-    - [Control Flow](Notebooks/ControlFlow.ipynb), Functions
-        - For those who haven't programmed before, please go over [Python Essentials](https://python-programming.quantecon.org/python_essentials.html) for reference and details.
-    - TBD
+    - Collections and Numpy vector/matrix operations
+        - Please go over [Numpy](https://python-programming.quantecon.org/numpy.html) by yourselves
+    - [Control Flow](Notebooks/ControlFlow.ipynb), [Functions](Notebooks/Functions.ipynb)
+        - For those who don't have programming experience before, please go over [Python Essentials](https://python-programming.quantecon.org/python_essentials.html) for reference and details.
+    - Maybe start [Finite Markov Chains](https://python.quantecon.org/finite_markov.html)
 
 5. **September 22nd**
 
