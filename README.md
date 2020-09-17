@@ -21,12 +21,13 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 4. **September 17th**:
     - [Numpy](https://python-programming.quantecon.org/numpy.html): vector/matrix operations
-    - Control Flow
-    - Functions
+    - [Control Flow](Notebooks/ControlFlow.ipynb), Functions
+        - For those who haven't programmed before, please go over [Python Essentials](https://python-programming.quantecon.org/python_essentials.html) for reference and details.
     - TBD
 
-<!---
 5. **September 22nd**
+
+<!---
 6. **September 24th**
 7. **September 29th**
 8. **October 1st**
