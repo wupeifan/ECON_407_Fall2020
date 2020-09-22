@@ -28,7 +28,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 5. **September 22nd**:
     - Briefly cover [Numpy vector/matrix](Notebooks/CollectionAndNumpy.ipynb)
         - Please go over the Jupyter notebook carefully. We won't go over all of them in detail.
-    - [Finite Markov Chains](https://python.quantecon.org/finite_markov.html)
+    - [Finite Markov Chains](https://python.quantecon.org/finite_markov.html). Some Python code examples [here](Notebooks/MarkovChainExample.ipynb)
 
 6. **September 24th**
     - Finish [Finite Markov Chains](https://python.quantecon.org/finite_markov.html)
