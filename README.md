@@ -30,11 +30,13 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Please go over the Jupyter notebook carefully. We won't go over all of them in detail.
     - [Finite Markov Chains](https://python.quantecon.org/finite_markov.html). Some Python code examples [here](Notebooks/MarkovChainExample.ipynb)
 
-6. **September 24th**
-    - Finish [Finite Markov Chains](https://python.quantecon.org/finite_markov.html)
+6. **September 24th**:
+    - Finish [Finite Markov Chains](https://python.quantecon.org/finite_markov.html): properties of Markov chain, distribution simulation, etc.
+        - Python code examples [here](Notebooks/MarkovChainExample.ipynb)
+
+7. **September 29th**
 
 <!---
-7. **September 29th**
 8. **October 1st**
 9. **October 6th**
 10. **October 8th**
