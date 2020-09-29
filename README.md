@@ -34,7 +34,12 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Finish [Finite Markov Chains](https://python.quantecon.org/finite_markov.html): properties of Markov chain, distribution simulation, etc.
         - Python code examples [here](Notebooks/MarkovChainExample.ipynb)
 
-7. **September 29th**
+7. **September 29th**:
+    - Introduction to Dynamic Programming:
+        - [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
+        - [Maximum Path Sum](https://projecteuler.net/problem=18)
+    - The definitions of value function and policy functions
+    - Handle questions and discussions for [Problem Set 1](ProblemSets/PS1.pdf)
 
 <!---
 8. **October 1st**
