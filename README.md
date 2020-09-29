@@ -38,6 +38,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Introduction to Dynamic Programming:
         - [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
         - [Maximum Path Sum](https://projecteuler.net/problem=18)
+        - Start [Cake Eating](https://python.quantecon.org/cake_eating_problem.html) if time permitted
     - The definitions of value function and policy functions
     - Handle questions and discussions for [Problem Set 1](ProblemSets/PS1.pdf)
 
