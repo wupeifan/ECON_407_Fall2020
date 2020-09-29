@@ -36,15 +36,19 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 7. **September 29th**:
     - Introduction to [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming):
-        - [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
         - [Maximum Path Sum](https://projecteuler.net/problem=18)
-        - Start [Cake Eating](https://python.quantecon.org/cake_eating_problem.html) if time permitted
     - The definitions of value function and policy functions
     - Handle questions and discussions for [Problem Set 1](ProblemSets/PS1.pdf)
 
-<!---
-8. **October 1st**
+8. **October 1st**:
+    - Dynamic Programming continued: [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
+    - An example in Economics: [Cake Eating](https://python.quantecon.org/cake_eating_problem.html)
+
 9. **October 6th**
+    - [Problem Set 1](ProblemSets/PS1.pdf) Review
+    - TBD
+
+<!---
 10. **October 8th**
 11. **October 13th**
 12. **October 15th**
