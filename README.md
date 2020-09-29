@@ -35,7 +35,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Python code examples [here](Notebooks/MarkovChainExample.ipynb)
 
 7. **September 29th**:
-    - Introduction to Dynamic Programming:
+    - Introduction to [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming):
         - [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
         - [Maximum Path Sum](https://projecteuler.net/problem=18)
         - Start [Cake Eating](https://python.quantecon.org/cake_eating_problem.html) if time permitted
