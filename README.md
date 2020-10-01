@@ -46,10 +46,13 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 9. **October 6th**
     - [Problem Set 1](ProblemSets/PS1.pdf) Review
-    - TBD
+    - Lab session for Basic Python coding for the rest of the class
+
+10. **October 8th**
+    - [Cake Eating](https://python.quantecon.org/cake_eating_problem.html) continued
+    - More formal introduction to (Discrete) Dynamic Programming
 
 <!---
-10. **October 8th**
 11. **October 13th**
 12. **October 15th**
 13. **October 20th**
