@@ -42,14 +42,14 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 8. **October 1st**:
     - Dynamic Programming continued: [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
-    - An example in Economics: [Cake Eating](https://python.quantecon.org/cake_eating_problem.html)
+    - An example in Economics: [McCall Model](https://python.quantecon.org/mccall_model.html)
 
 9. **October 6th**:
     - [Problem Set 1](ProblemSets/PS1.pdf) Review
     - Lab session for Basic Python coding for the rest of the class
 
 10. **October 8th**:
-    - [Cake Eating](https://python.quantecon.org/cake_eating_problem.html) continued
+    - [McCall Model](https://python.quantecon.org/mccall_model.html) continued
     - More formal introduction to (Discrete) Dynamic Programming
 
 <!---
