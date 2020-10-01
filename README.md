@@ -44,11 +44,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Dynamic Programming continued: [Shortest Paths](https://python.quantecon.org/short_path.html) on a directed acyclic graph
     - An example in Economics: [Cake Eating](https://python.quantecon.org/cake_eating_problem.html)
 
-9. **October 6th**
+9. **October 6th**:
     - [Problem Set 1](ProblemSets/PS1.pdf) Review
     - Lab session for Basic Python coding for the rest of the class
 
-10. **October 8th**
+10. **October 8th**:
     - [Cake Eating](https://python.quantecon.org/cake_eating_problem.html) continued
     - More formal introduction to (Discrete) Dynamic Programming
 
