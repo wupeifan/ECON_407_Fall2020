@@ -1,3 +1,4 @@
 *.lyx*
 *.ipynb_checkpoints*
+/StudentSubmissions
 *_sol*
