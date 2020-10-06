@@ -49,6 +49,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 9. **October 6th**:
     - [Problem Set 1](ProblemSets/PS1.pdf) Review
     - Lab session for Basic Python coding for the rest of the class
+        - Check [Programming Examples](Notebooks/ProgrammingExamples.ipynb) for details
 
 10. **October 8th**:
     - [McCall Model](https://python.quantecon.org/mccall_model.html) continued
@@ -76,4 +77,5 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 ## Assignments
 
 1. [Problem Set 1](ProblemSets/PS1.pdf) due on **September 30th**
-2. TBD
+2. Problem Set 2 due on **October 14th**
+3.
