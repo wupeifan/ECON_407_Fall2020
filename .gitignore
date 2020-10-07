@@ -1,4 +1,4 @@
 *.lyx*
 *.ipynb_checkpoints*
 /StudentSubmissions
-*_sol*
+/ProblemSets/*_sol*
