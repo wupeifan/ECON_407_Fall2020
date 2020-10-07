@@ -77,5 +77,5 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 ## Assignments
 
 1. [Problem Set 1](ProblemSets/PS1.pdf) due on **September 30th**
-2. Problem Set 2 due on **October 14th**
-3.
+2. [Problem Set 2](ProblemSets/PS2.ipynb) due on **October 14th**
+3. TBD
