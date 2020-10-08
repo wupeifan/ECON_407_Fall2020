@@ -52,8 +52,8 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Check [Programming Examples](Notebooks/ProgrammingExamples.ipynb) for details
 
 10. **October 8th**:
+    - More formal introduction to [Discrete Dynamic Programming](Notes/Dynamic_Programming.pdf)
     - [McCall Model](https://python.quantecon.org/mccall_model.html) continued
-    - More formal introduction to (Discrete) Dynamic Programming
 
 <!---
 11. **October 13th**
