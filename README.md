@@ -56,7 +56,10 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - [McCall Model](https://python.quantecon.org/mccall_model.html) continued
 
 11. **October 13th**:
-    - Code to solve [Discrete Dynamic Programming](Notes/Dynamic_Programming.pdf) problems with [McCall Model](https://python.quantecon.org/mccall_model.html) example
+    - Code to solve [Discrete Dynamic Programming](Notes/Dynamic_Programming.pdf) problems with [McCall Model](https://python.quantecon.org/mccall_model.html)
+        - Code example used in class is [here](Notebooks/McCall.ipynb)
+        - We might give another example following [An Extension of McCall Model](https://python.quantecon.org/mccall_model_with_separation.html)
+        - Note: We will differ a bit from the QuantEcon lectures, therefore going through the webpages might not be sufficient.
 
 <!---
 12. **October 15th**
