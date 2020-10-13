@@ -55,8 +55,10 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - More formal introduction to [Discrete Dynamic Programming](Notes/Dynamic_Programming.pdf)
     - [McCall Model](https://python.quantecon.org/mccall_model.html) continued
 
+11. **October 13th**:
+    - Code to solve [Discrete Dynamic Programming](Notes/Dynamic_Programming.pdf) problems with [McCall Model](https://python.quantecon.org/mccall_model.html) example
+
 <!---
-11. **October 13th**
 12. **October 15th**
 13. **October 20th**
 14. **October 22nd**
