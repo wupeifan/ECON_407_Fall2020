@@ -69,7 +69,8 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - If you are interested, you can check the following lectures [here](https://python.quantecon.org/index_search.html) (you don't have to)
 
 13. **October 20th**
-    - If time permitted, start Stochastic Growth / Real Business Cycle Models
+    - [Problem Set 2](ProblemSets/PS2.ipynb) Review
+    - Stochastic Growth / Real Business Cycle Models
 
 <!---
 14. **October 22nd**
