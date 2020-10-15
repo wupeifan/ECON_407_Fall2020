@@ -67,10 +67,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Formulate the Bellman equations
         - Code to solve the model
         - If you are interested, you can check the following lectures [here](https://python.quantecon.org/index_search.html) (you don't have to)
+
+13. **October 20th**
     - If time permitted, start Stochastic Growth / Real Business Cycle Models
 
 <!---
-13. **October 20th**
 14. **October 22nd**
 15. **October 27th**
 16. **October 29th**
