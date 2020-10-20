@@ -71,6 +71,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 13. **October 20th**
     - [Problem Set 2](ProblemSets/PS2.ipynb) Review
     - Stochastic Growth / Real Business Cycle Models
+        - [Motivation](Notebooks/RBC_motivation.ipynb)
 
 <!---
 14. **October 22nd**
