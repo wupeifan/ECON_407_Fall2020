@@ -78,8 +78,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - RBC model continued
     - [Solve the model](Notebooks/RBC_solve.ipynb)
 
-<!---
 15. **October 27th**
+    - The simplest General Equilibrium -- adding labor into RBC
+    - TBD
+
+<!---
 16. **October 29th**
 17. **November 3rd**
 18. **November 5th**
