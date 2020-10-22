@@ -73,8 +73,12 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Stochastic Growth / Real Business Cycle Models
         - [Motivation](Notebooks/RBC_motivation.ipynb)
         - Check [RBC Notes](Notes/RBC.pdf)
-<!---
+
 14. **October 22nd**
+    - RBC model continued
+    - [Solve the model](Notebooks/RBC_solve.ipynb)
+
+<!---
 15. **October 27th**
 16. **October 29th**
 17. **November 3rd**
