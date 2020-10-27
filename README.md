@@ -85,7 +85,9 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Check [RBC Notes](Notes/RBC.pdf)
 
 16. **October 29th**
-    - TBC
+    - AR(1) processes
+    - Shortcomings of RBC
+    - TBD
 
 <!---
 17. **November 3rd**
