@@ -69,7 +69,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - If you are interested, you can check the following lectures [here](https://python.quantecon.org/index_search.html) (you don't have to)
 
 13. **October 20th**
-    - [Problem Set 2](ProblemSets/PS2.ipynb) Review
+    - [Problem Set 2](ProblemSets/Solutions/PS2_sol.ipynb) Review
     - Stochastic Growth / Real Business Cycle Models
         - [Motivation](Notebooks/RBC_motivation.ipynb)
         - Check [RBC Notes](Notes/RBC.pdf)
@@ -78,12 +78,15 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - RBC model continued
 
 15. **October 27th**
+    - [Problem Set 3](ProblemSets/Solutions/PS3_sol.ipynb) Review
     - [Solve the model](Notebooks/RBC_solve.ipynb)
-    - The simplest General Equilibrium -- adding labor into RBC
-    - TBD
+    - The simplest General Equilibrium: adding labor into RBC
+        - Check [RBC Notes](Notes/RBC.pdf)
+
+16. **October 29th**
+    - TBC
 
 <!---
-16. **October 29th**
 17. **November 3rd**
 18. **November 5th**
 19. **November 10th**
