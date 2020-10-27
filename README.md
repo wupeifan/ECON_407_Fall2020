@@ -81,6 +81,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - [Problem Set 3](ProblemSets/Solutions/PS3_sol.ipynb) Review
     - [Solve the model](Notebooks/RBC_solve.ipynb)
     - The simplest General Equilibrium: adding labor into RBC
+        - [Motivation](Notebooks/RBC_motivation.ipynb)
         - Check [RBC Notes](Notes/RBC.pdf)
 
 16. **October 29th**
