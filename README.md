@@ -87,10 +87,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 16. **October 29th**
     - [Risk Aversion](Notes/Risk_Aversion.pdf)
         - We will further talk about it when covering simple asset pricing applications
+    - Policy function analysis
+        - Check the updates of [Solve the model](Notebooks/RBC_solve.ipynb)
     - Shortcomings of RBC
         - Check a [comment](References/Summers_comment.pdf) from Larry Summers
-    - AR(1) processes
-    - TBD
+        - Parameters? Shocks? Market Clear? Monetary Policy?
 
 <!---
 17. **November 3rd**
