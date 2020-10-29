@@ -85,8 +85,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Check [RBC Notes](Notes/RBC.pdf)
 
 16. **October 29th**
-    - AR(1) processes
+    - [Risk Aversion](Notes/Risk_Aversion.pdf)
+        - We will further talk about it when covering simple asset pricing applications
     - Shortcomings of RBC
+        - Check a [comment](References/Summers_comment.pdf) from Larry Summers
+    - AR(1) processes
     - TBD
 
 <!---
