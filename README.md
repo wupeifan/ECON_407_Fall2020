@@ -93,8 +93,9 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Check a [comment](References/Summers_comment.pdf) from Larry Summers
         - Parameters? Shocks? Market Clear? Monetary Policy?
 
-<!---
 17. **November 3rd**
+
+<!---
 18. **November 5th**
 19. **November 10th**
 20. **November 12th**
@@ -111,4 +112,5 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 1. [Problem Set 1](ProblemSets/PS1.pdf) due on **September 30th**
 2. [Problem Set 2](ProblemSets/PS2.ipynb) due on **October 14th**
 3. [Problem Set 3](ProblemSets/PS3.ipynb) due on **October 25th**
-4. TBD
+4. [Problem Set 4](ProblemSets/PS3.ipynb) due on **November 9th**
+5. TBD
