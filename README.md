@@ -62,29 +62,29 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Practice formulating Bellman equations and coding to solve them
         - An example similar to [An Extension of McCall Model](https://python.quantecon.org/mccall_model_with_separation.html)
 
-12. **October 15th**
+12. **October 15th**:
     - Two more examples for [variations of McCall Model](Notebooks/McCallVariations.ipynb)
         - Formulate the Bellman equations
         - Code to solve the model
         - If you are interested, you can check the following lectures [here](https://python.quantecon.org/index_search.html) (you don't have to)
 
-13. **October 20th**
+13. **October 20th**:
     - [Problem Set 2](ProblemSets/Solutions/PS2_sol.ipynb) Review
     - Stochastic Growth / Real Business Cycle Models
         - [Motivation](Notebooks/RBC_motivation.ipynb)
         - Check [RBC Notes](Notes/RBC.pdf)
 
-14. **October 22nd**
+14. **October 22nd**:
     - RBC model continued
 
-15. **October 27th**
+15. **October 27th**:
     - [Problem Set 3](ProblemSets/Solutions/PS3_sol.ipynb) Review
     - [Solve the model](Notebooks/RBC_solve.ipynb)
     - The simplest General Equilibrium: adding labor into RBC
         - [Motivation](Notebooks/RBC_motivation.ipynb)
         - Check [RBC Notes](Notes/RBC.pdf)
 
-16. **October 29th**
+16. **October 29th**:
     - [Risk Aversion](Notes/Risk_Aversion.pdf)
         - We will further talk about it when covering simple asset pricing applications
     - Policy function analysis
@@ -93,10 +93,16 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - Check a [comment](References/Summers_comment.pdf) from Larry Summers
         - Parameters? Shocks? Market Clear? Monetary Policy?
 
-17. **November 3rd**
+17. **November 3rd**:
+    - [Discretize an AR(1) process](Notes/Tauchen.pdf)
+    - [Lucas Asset Pricing Model](Notes/Lucas_Tree.pdf)
+        - Check [this lecture](https://python-advanced.quantecon.org/lucas_model.html) for further reading
+
+18. **November 5th**
+    - [Lucas Asset Pricing Model](Notes/Lucas_Tree.pdf) continued
+    - [Asset Pricing in Finite State Space](https://python.quantecon.org/markov_asset.html)
 
 <!---
-18. **November 5th**
 19. **November 10th**
 20. **November 12th**
 21. **November 17th**
