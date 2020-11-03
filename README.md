@@ -100,6 +100,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 18. **November 5th**
     - [Lucas Asset Pricing Model](Notes/Lucas_Tree.pdf) continued
+    - CAPM and CCAPM
     - [Asset Pricing in Finite State Space](https://python.quantecon.org/markov_asset.html)
 
 <!---
