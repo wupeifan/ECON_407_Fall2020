@@ -98,14 +98,20 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - [Lucas Asset Pricing Model](Notes/Lucas_Tree.pdf)
         - Check [this lecture](https://python-advanced.quantecon.org/lucas_model.html) for further reading
 
-18. **November 5th**
+18. **November 5th**:
     - [Lucas Asset Pricing Model](Notes/Lucas_Tree.pdf) continued
     - CAPM and CCAPM
     - [Asset Pricing in Finite State Space](https://python.quantecon.org/markov_asset.html)
 
+19. **November 10th**:
+    - [Example of CCAPM](Notebooks/CCAPM.ipynb) asset pricing
+    - Incomplete Markets on the household side: [Income fluctuation](https://python.quantecon.org/ifp.html) and Aiyagari model
+
+20. **November 12th**:
+    - [Problem Set 4](ProblemSets/PS4.ipynb) Review
+    - Incomplete Markets on the household side: [Income fluctuation](https://python.quantecon.org/ifp.html) and Aiyagari model, continued
+
 <!---
-19. **November 10th**
-20. **November 12th**
 21. **November 17th**
 22. **November 19th**
 23. **November 24th**
@@ -120,4 +126,4 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 2. [Problem Set 2](ProblemSets/PS2.ipynb) due on **October 14th**
 3. [Problem Set 3](ProblemSets/PS3.ipynb) due on **October 25th**
 4. [Problem Set 4](ProblemSets/PS4.ipynb) due on **November 9th**
-5. TBD
+5. [Problem Set 5]() TBD (and this is the last Problem Set)
