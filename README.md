@@ -110,6 +110,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 20. **November 12th**:
     - [Problem Set 4](ProblemSets/Solutions/PS4_sol.ipynb) Review
     - Incomplete Markets on the household side: [Income fluctuation](https://python.quantecon.org/ifp.html) and Aiyagari model, continued
+        - Permanent Income Hypothesis
 
 <!---
 21. **November 17th**
