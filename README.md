@@ -116,6 +116,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Natural borrowing limit
     - Solving the [Income fluctuation](https://python.quantecon.org/ifp.html) Problem
         - Comparative statics and further discussions
+    - Inequality and redistribution implications
 
 22. **November 19th**:
     - Incomplete Markets on the firm side: The firm investment problem
