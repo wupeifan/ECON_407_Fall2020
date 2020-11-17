@@ -113,7 +113,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - [Permanent Income Hypothesis](Notes/PIH.pdf)
 
 21. **November 17th**:
-    - Natural borrowing limit
+    - [Natural borrowing limit](Notes/Natural_Debt_Limit.pdf)
     - Solving the [Income fluctuation](https://python.quantecon.org/ifp.html) Problem
         - Comparative statics and further discussions
     - Inequality and redistribution implications
