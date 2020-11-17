@@ -111,10 +111,17 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - [Problem Set 4](ProblemSets/Solutions/PS4_sol.ipynb) Review
     - Incomplete Markets on the household side: [Income fluctuation](https://python.quantecon.org/ifp.html) and Aiyagari model, continued
         - [Permanent Income Hypothesis](Notes/PIH.pdf)
-        
+
+21. **November 17th**:
+    - Natural borrowing limit
+    - Solving the [Income fluctuation](https://python.quantecon.org/ifp.html) Problem
+        - Comparative statics and further discussions
+
+22. **November 19th**:
+    - Incomplete Markets on the firm side: The firm investment problem
+    - Tobin's q, and the value of the firm
+
 <!---
-21. **November 17th**
-22. **November 19th**
 23. **November 24th**
 24. **November 26th**
 25. **December 1st**
