@@ -120,6 +120,7 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 
 22. **November 19th**:
     - Incomplete Markets on the firm side: The firm investment problem
+        - [Notes](Notes/Firm_Dynamics.pdf)
     - Tobin's q, and the value of the firm
 
 <!---
