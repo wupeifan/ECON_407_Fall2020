@@ -126,6 +126,11 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
     - Tobin's q, and the value of the firm
 
 23. **November 24th**
+    - Average Q vs Marginal Q
+    - Hayashi (1982), convex adjustment cost
+    - The value premium
+        - check updated [Notes](Notes/Firm_Dynamics.pdf)
+
 24. **November 26th**
 
 <!---
