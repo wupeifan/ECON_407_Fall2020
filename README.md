@@ -1,8 +1,6 @@
 # ECON407, Fall 2020
 Course material and schedules for ECON407 in 2020 fall
 
-**Don't fork the repository. You won't get the latest updates from your forked repo.**
-
 ## Syllabus
 Check [Syllabus](syllabus.md) for more details.
 
