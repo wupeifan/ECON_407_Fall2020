@@ -7,7 +7,7 @@ Check [Syllabus](syllabus.md) for more details.
 [Final Project](FinalProject.md). Due date: **December 22nd**, the last day of exams.
 
 ## Jupyter Hubs
-For those who program in Python and want to launch Jupyter notebook on the cloud, you can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Colab
+You can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Colab for a free Jupyter hub.
 
 ## Lectures
 1. **September 8th**: Imagine Day at UBC. Class cancelled.
