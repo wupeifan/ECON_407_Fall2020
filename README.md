@@ -4,7 +4,9 @@ Course material and schedules for ECON407 in 2020 fall
 **Don't fork the repository. You won't get the latest updates from your forked repo.**
 
 ## Syllabus
-Check [Syllabus](syllabus.md) for more details
+Check [Syllabus](syllabus.md) for more details.
+
+[Final Project](FinalProject.md). Due date: **December 22nd**, the last day of exams.
 
 ## Jupyter Hubs
 For those who program in Python and want to launch Jupyter notebook on the cloud, you can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Colab
@@ -123,9 +125,10 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
         - [Notes](Notes/Firm_Dynamics.pdf)
     - Tobin's q, and the value of the firm
 
-<!---
 23. **November 24th**
 24. **November 26th**
+
+<!---
 25. **December 1st**
 26. **December 3rd**
 --->
@@ -136,4 +139,4 @@ For those who program in Python and want to launch Jupyter notebook on the cloud
 2. [Problem Set 2](ProblemSets/PS2.ipynb) due on **October 14th**
 3. [Problem Set 3](ProblemSets/PS3.ipynb) due on **October 25th**
 4. [Problem Set 4](ProblemSets/PS4.ipynb) due on **November 9th**
-5. [Problem Set 5]() TBD (and this is the last Problem Set)
+5. [Problem Set 5](ProblemSets/PS5.ipynb) due on **December 6th**
