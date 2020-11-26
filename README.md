@@ -132,6 +132,7 @@ You can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Cola
 24. **November 26th**
     - Entry, Exit, and Firm Dynamics
         - [Model with Entry and Exit](Notes/Entry_Exit_Firm.pdf)
+        - Empirical motivations
 
 25. **December 1st**
     - Modeling COVID in macroeconomics
