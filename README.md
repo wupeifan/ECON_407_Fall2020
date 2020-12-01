@@ -136,9 +136,10 @@ You can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Cola
 
 25. **December 1st**
     - Modeling COVID in macroeconomics
+        - Check [this paper](References/Epidemics.pdf)
 
 26. **December 3rd**
-    - TBD
+    - Optimal government policy: Ramsey problem
 
 ## Assignments
 
