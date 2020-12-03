@@ -139,7 +139,7 @@ You can either use [UBC Syzygy Jupyter Hub](http://ubc.syzygy.ca) or Google Cola
         - Check [this paper](References/Epidemics.pdf) and their [slides](References/ERTslides.pdf)
 
 26. **December 3rd**
-    - Optimal government policy: Ramsey problem
+    - Optimal government policy: [Ramsey problem](Notes/Ramsey.pdf)
 
 ## Assignments
 
