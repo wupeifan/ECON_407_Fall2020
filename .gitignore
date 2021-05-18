@@ -2,3 +2,4 @@
 *.ipynb_checkpoints*
 /StudentSubmissions
 /ProblemSets/*_sol*
+/ProblemSets/Solutions/
